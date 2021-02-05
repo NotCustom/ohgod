@@ -1,4 +1,4 @@
-# Jerusalem.Sunday
+# SunDay
 
 Activates every Sunday, displaying a nice message and shutting down your computer :)
 
